@@ -13,7 +13,6 @@ import javax.crypto.spec.DESKeySpec;
 
 /**
  * 劳资直接从别人源码里复制过来的JS执行工具类
- * Created by Hiroshi on 2016/7/8.
  */
 public class DecryptionUtils {
 	
