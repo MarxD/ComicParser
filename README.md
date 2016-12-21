@@ -8,7 +8,7 @@
 【这是图】 分割后
 1.【图】2.【是】3.【这】
 
-library 
+libraries 
 
 1.[jsoup](https://github.com/jhy/jsoup)<br />  
 3.[rhino](https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/Rhino)<br />
